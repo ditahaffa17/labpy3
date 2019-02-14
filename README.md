@@ -1,1 +1,1 @@
-# labpy3
+Penjelasan alur algoritma
