@@ -65,7 +65,7 @@ Untuk menampilkan objek ke perangkat pengeluaran.
 # Jika di jalankan maka hasilnya.....
 # ![laba](https://user-images.githubusercontent.com/46733598/52893667-891fcf80-31d1-11e9-966f-feb3c34aafe3.png)
 
-# Sekian Dan TErimakasih. DITA HAFFA TEKNIK INFORMATIKA 18.A.1.
+# Sekian Dan Terimakasih. DITA HAFFA TEKNIK INFORMATIKA 18.A.1.
 
 
 
